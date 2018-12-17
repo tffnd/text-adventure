@@ -1,8 +1,7 @@
-BlueJ project "zork1"
+BlueJ project text-adventure
 
-Copyright (c) Michael Kolling
-              Monash University
-
+based on "zork1" by Michael Kolling, Monash University
+description below:
 -------------
 This project is a simple framework for an adventure game. In this version,
 it has a few rooms and the ability for a player to walk between these rooms.
@@ -19,3 +18,7 @@ The goal is to extend the game:
 
 To start this application, create an instance of class "Game" and call its
 "play" method.
+-------------
+
+From there, I created a game that had a user navigate rooms with time limitations,
+find tools, and use them in an attempt to escape. I made this in December 2016.
