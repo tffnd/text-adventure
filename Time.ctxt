@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Time()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Timer\r\n
+comment1.params=
+comment1.target=int\ getTime()
+comment2.params=
+comment2.target=void\ printTime()
+numComments=3
